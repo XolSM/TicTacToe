@@ -1,0 +1,40 @@
+D:\Quiz2XolSucre\Xochilt\Xochilt\bin\Debug\Xochilt.exe.config
+D:\Quiz2XolSucre\Xochilt\Xochilt\bin\Debug\Xochilt.exe
+D:\Quiz2XolSucre\Xochilt\Xochilt\bin\Debug\Xochilt.pdb
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.AssemblyReference.cache
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.Form1.resources
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.Properties.Resources.resources
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.GenerateResource.cache
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.CoreCompileInputs.cache
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.exe
+D:\Quiz2XolSucre\Xochilt\Xochilt\obj\Debug\Xochilt.pdb
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\bin\Debug\Xochilt.exe.config
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\bin\Debug\Xochilt.exe
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\bin\Debug\Xochilt.pdb
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.AssemblyReference.cache
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.Form1.resources
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.Properties.Resources.resources
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.GenerateResource.cache
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.CoreCompileInputs.cache
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.exe
+D:\Quiz2XolSucre - Copy\Xochilt\Xochilt\obj\Debug\Xochilt.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\bin\Debug\Xochilt.exe.config
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\bin\Debug\Xochilt.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\bin\Debug\Xochilt.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.AssemblyReference.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.Form1.resources
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.Properties.Resources.resources
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.GenerateResource.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.CoreCompileInputs.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\bin\Debug\Xochilt.exe.config
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\bin\Debug\Xochilt.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\bin\Debug\Xochilt.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.AssemblyReference.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.Form1.resources
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.Properties.Resources.resources
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.GenerateResource.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.csproj.CoreCompileInputs.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Tic_Tac_Toe\Xochilt\Xochilt\obj\Debug\Xochilt.pdb

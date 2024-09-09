@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xochilt", "Xochilt\Xochilt.csproj", "{8D7FCD51-AC23-4E08-9CD2-8F41B7DDECEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7FCD51-AC23-4E08-9CD2-8F41B7DDECEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7FCD51-AC23-4E08-9CD2-8F41B7DDECEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7FCD51-AC23-4E08-9CD2-8F41B7DDECEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7FCD51-AC23-4E08-9CD2-8F41B7DDECEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE0E2BB-720B-4468-B4C4-F5C0EB3522AB}
+	EndGlobalSection
+EndGlobal
